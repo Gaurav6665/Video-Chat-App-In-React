@@ -1,5 +1,3 @@
-# iozoom-clone-react-socket-io-peers
-
 This repo is a tiny effort on working with socket.io. Real time audio and video chat made possible in express as backend and React js as frontend.
 
 [Checkout DEMO](https://zoom-clone-react-webrtc-socket-io.netlify.app/)
